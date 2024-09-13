@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Uppgift-1-Programmering\bin\Debug\net8.0\Uppgift-1-Programmering.exe
+C:\Users\Admin\Documents\GitHub\Uppgift-1-Programmering\bin\Debug\net8.0\Uppgift-1-Programmering.deps.json
+C:\Users\Admin\Documents\GitHub\Uppgift-1-Programmering\bin\Debug\net8.0\Uppgift-1-Programmering.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Uppgift-1-Programmering\bin\Debug\net8.0\Uppgift-1-Programmering.dll
+C:\Users\Admin\Documents\GitHub\Uppgift-1-Programmering\bin\Debug\net8.0\Uppgift-1-Programmering.pdb
+C:\Users\Admin\Documents\GitHub\Uppgift-1-Programmering\obj\Debug\net8.0\Uppgift-1-Programmering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Uppgift-1-Programmering\obj\Debug\net8.0\Uppgift-1-Programmering.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Uppgift-1-Programmering\obj\Debug\net8.0\Uppgift-1-Programmering.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Uppgift-1-Programmering\obj\Debug\net8.0\Uppgift-1-Programmering.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Uppgift-1-Programmering\obj\Debug\net8.0\Uppgift-1-Programmering.dll
+C:\Users\Admin\Documents\GitHub\Uppgift-1-Programmering\obj\Debug\net8.0\refint\Uppgift-1-Programmering.dll
+C:\Users\Admin\Documents\GitHub\Uppgift-1-Programmering\obj\Debug\net8.0\Uppgift-1-Programmering.pdb
+C:\Users\Admin\Documents\GitHub\Uppgift-1-Programmering\obj\Debug\net8.0\Uppgift-1-Programmering.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Uppgift-1-Programmering\obj\Debug\net8.0\ref\Uppgift-1-Programmering.dll
